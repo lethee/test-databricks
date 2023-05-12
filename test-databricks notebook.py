@@ -4,4 +4,9 @@ print('Fanta Sea!')
 
 # COMMAND ----------
 
+for i in range(10):
+    print(f'{i} {i*2}')
+
+# COMMAND ----------
+
 
